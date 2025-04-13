@@ -34,13 +34,7 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" >
-    </td>
-    <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60">
@@ -93,9 +87,7 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-     <td align='center' width="190">
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
-    </td>
+     
     <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
