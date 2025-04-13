@@ -42,15 +42,14 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
    <td align='center' width="190">
         <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_scala.png?raw=true)](http://www.scala-lang.org/)" width="60">
     </td>
-</tr>
-<tr>
-        <td align='center' width="190">
+  <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
     </td>
-    </td>
+</tr>
+<tr>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60">
     </td>
@@ -60,8 +59,6 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
     <td align='center' width="190">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60">
     </td>
-</tr>
-<tr>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60">
     </td>
@@ -69,6 +66,8 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60">
     </td>
+</tr>
+<tr>
      <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="60">
     </td>
@@ -78,18 +77,17 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60">
     </td>
-</tr>
-<tr>
-    <td align='center' width="190">
+   <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="60">
     </td>
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-     
+</tr>
+<tr>
     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60">
