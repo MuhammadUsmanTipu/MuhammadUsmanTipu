@@ -25,7 +25,7 @@ Data Scientist, expertise in dealing with billions of data, correlation, investi
 <a href="https://kaggle.com/usmantipu"><img src="https://img.shields.io/badge/-usmantipu-3423A6?style=flat&logo=Kaggle&logoColor=white"/></a>
 <a href="https://linkedin.com/in/muhamdusman"><img src="https://img.shields.io/badge/-Muhammad%20Usman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:iusmantipu1@gmail.com"><img src="https://img.shields.io/badge/-iusmantipu1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/muhammadusman869"><img src="https://img.shields.io/badge/-@muhammadusman869-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/muhammadusman869"><img src="https://img.shields.io/badge/-@muhammadduusman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <h3 align="left">💻 Tech Stack</h3>
 
