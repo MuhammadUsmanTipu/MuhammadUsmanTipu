@@ -2,9 +2,7 @@
 
   ### I'm
 
-- Data Analyst 🕸
-- Machine Learning Expert 💻 
-- Python Developer 🐍
+- AI Data Engineer 💻 
 - Data Scientist 🖥
 - Freelancer 💖
 
